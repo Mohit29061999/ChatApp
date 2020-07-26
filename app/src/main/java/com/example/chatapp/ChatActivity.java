@@ -513,17 +513,4 @@ public class ChatActivity extends AppCompatActivity {
 }
 
 
-/*
- <ImageView
-        android:id="@+id/message_image_layout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/message_text_layout"
-        android:layout_marginStart="15dp"
-        android:layout_marginBottom="7dp"
-        android:layout_toEndOf="@id/message_profile_layout"
-        android:padding="0dp"
-        android:scaleType="centerCrop" />
- */
-
 
